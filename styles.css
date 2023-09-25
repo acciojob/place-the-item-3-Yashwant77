@@ -1,2 +1,29 @@
 
+*{
+	margin:0px;
+	padding:0px;
+}
+
+.holder{
+	display:flex;
+    justify-content:space-evenly;
+	flex-wrap:wrap;
+	font-size:50px;	
+}
+#box1{
+	    background-color:green;
+		width:200px;
+	    height:200px;
+}
+#box2{
+	     background-color:red;
+		 width:200px;
+	     height:200px;
+}
+#box3{
+	    background-color:blue;
+		width:200px;
+	    height:200px;
+}
+/* Your CSS Code here. */
 /* Your CSS Code here. */
